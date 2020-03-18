@@ -1,8 +1,3 @@
-title: ninenins //你博客的名字
-author: WY //你的名字
-language: zh-Hans //语言 中文
 theme: jekyll-theme-slate
-deploy:
-type: git //使用Git 发布
-repo: https://github.com/ninenins/ninenins.github.io.git// 
+
 
